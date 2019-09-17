@@ -1,4 +1,4 @@
-# Prystine 3D object detection
+# Prystine 3D object detection and tracking
 
 Project derived from  https://github.com/kujason/avod and  https://github.com/traveller59/second.pytorch.
 

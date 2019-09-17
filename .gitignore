@@ -97,7 +97,6 @@ celerybeat-schedule
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -125,5 +124,5 @@ dmypy.json
 
 # PyCharm
 .idea
-**/imgs
-**/output
+**/imgs/*.hd.*
+*.mp4
