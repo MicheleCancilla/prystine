@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package prystine_detection.prystine.protos;
+import "prystine_detection/prystine/protos/prystine.proto";
+message DetectionModel {
+    oneof model {
+        VoxelNet second = 1;
+    }
+}

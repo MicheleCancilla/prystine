@@ -1,0 +1,15 @@
+numpy
+protobuf
+numba==0.43.1
+scikit-learn
+scipy
+pillow
+#torch 1.1.0
+https://download.pytorch.org/whl/cu100/torch-1.1.0-cp36-cp36m-linux_x86_64.whl
+#torchvision 0.3.0
+https://download.pytorch.org/whl/cu100/torchvision-0.3.0-cp36-cp36m-linux_x86_64.whl
+pykitti
+filterpy
+moviepy
+opencv-python
+glob2
